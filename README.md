@@ -1,5 +1,6 @@
 # MultiFlyMapper
 Code and sample implementation for quantifying behavior in fly pairs as described in "An Unsupervised Method for Quantifying the Behavior of Paired Animals" 
+
 Ugne Klibaite, 2016
 
 This repository contains all functions necessary to replicate the analysis in the paper and a very general 
